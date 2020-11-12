@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * Implementing a one-to-many relationship (1:M)
  * between ClassGroup and Student.
- * Our StudentGroup class references a map of Students, allowing us
+ * Our ClassGroup class references a map of Students, allowing us
  * to represent a "has-a" relationship. ClassGroup 'has a' student.
  * This is called "composition" in OOP.
  *
